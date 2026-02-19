@@ -11,7 +11,7 @@ Provides python based functions to analyse bikesharing data based on given CSV d
 
 ## Contribution guidelines
 
-Coming soon...
+Please consider the [Udacity readme guidelines](https://udacity.github.io/git-styleguide/) by creating commits for this project! 
 
 ## Credits
 
