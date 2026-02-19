@@ -15,7 +15,7 @@ Please consider the [Udacity readme guidelines](https://udacity.github.io/git-st
 
 ## Credits
 
-Coming soon..
+Special thanks to the Udacity community!
 
 ## Date created
 
